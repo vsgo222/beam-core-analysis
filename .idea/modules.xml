@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Exported/.idea/Exported.iml" filepath="$PROJECT_DIR$/../Exported/.idea/Exported.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Sample/.idea/Sample.iml" filepath="$PROJECT_DIR$/../../Sample/.idea/Sample.iml" />
+      <module fileurl="file://E:/T-Score/.idea/T-Score.iml" filepath="E:/T-Score/.idea/T-Score.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../OneDrive - University of Kentucky/YR_3/TNC_RS/.idea/TNC_RS.iml" filepath="$PROJECT_DIR$/../../../OneDrive - University of Kentucky/YR_3/TNC_RS/.idea/TNC_RS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/beam-core-analysis.iml" filepath="$PROJECT_DIR$/.idea/beam-core-analysis.iml" />
+    </modules>
+  </component>
+</project>
